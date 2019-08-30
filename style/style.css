@@ -1,0 +1,28 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+body {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font: Book 21px/36px Clan-Book;
+    letter-spacing: 0.32px;
+    color: #3E4750;
+    opacity: 1;
+}
+header{
+    display: flex;
+    justify-content: center;
+    height:345px;
+    width: 100%;
+    max-width: 1920px;
+    background-image: url("../images/web/Solera_Home_Banner_camera001.png");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+section{
+    display: flex;
+}
